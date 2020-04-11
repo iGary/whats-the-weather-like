@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/whats-the-weather-like/static/css/main.5f361e03.chunk.css",
+    "main.js": "/whats-the-weather-like/static/js/main.db09d559.chunk.js",
+    "main.js.map": "/whats-the-weather-like/static/js/main.db09d559.chunk.js.map",
+    "runtime-main.js": "/whats-the-weather-like/static/js/runtime-main.d324640f.js",
+    "runtime-main.js.map": "/whats-the-weather-like/static/js/runtime-main.d324640f.js.map",
+    "static/js/2.5ca3b768.chunk.js": "/whats-the-weather-like/static/js/2.5ca3b768.chunk.js",
+    "static/js/2.5ca3b768.chunk.js.map": "/whats-the-weather-like/static/js/2.5ca3b768.chunk.js.map",
+    "index.html": "/whats-the-weather-like/index.html",
+    "precache-manifest.baaf1b953784787c325fe63b94dbba78.js": "/whats-the-weather-like/precache-manifest.baaf1b953784787c325fe63b94dbba78.js",
+    "service-worker.js": "/whats-the-weather-like/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/whats-the-weather-like/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.5ca3b768.chunk.js.LICENSE.txt": "/whats-the-weather-like/static/js/2.5ca3b768.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/whats-the-weather-like/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d324640f.js",
+    "static/js/2.5ca3b768.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.db09d559.chunk.js"
+  ]
+}
