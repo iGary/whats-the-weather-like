@@ -1,0 +1,13 @@
+#get-weather {
+  margin-top: 5px;
+}
+
+#location-value {
+  color: white;
+  padding-top: 20px;
+}
+
+#location-error {
+  color: red;
+  padding-top: 20px;
+}
